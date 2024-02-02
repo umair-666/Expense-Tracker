@@ -1,8 +1,6 @@
 # Expense Tracker App Documentation
 Use "npm install" command to install the node_modules for the React project.
 
-```markdown
-
 ## Technologies Used
 
 ### Backend (Spring Boot)
@@ -72,4 +70,3 @@ Visit `http://localhost:3000` in your web browser to access the Expense Tracker 
 - Ensure that the backend server is running before accessing the frontend.
 - Customize the database configurations in the `application.properties` file in the backend directory if needed.
 
-```
