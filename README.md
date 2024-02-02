@@ -29,12 +29,7 @@ Use "npm install" command to install the node_modules for the React project.
       git clone https://github.com/umair-666/Expense-Tracker.git
    ```
 
-2. Navigate to the backend directory:
-   ```bash
-   cd expense-tracker/backend
-   ```
-
-3. Build and run the Spring Boot application:
+2. Build and run the Spring Boot application:
    ```bash
    ./mvnw spring-boot:run
    ```
@@ -45,7 +40,7 @@ Use "npm install" command to install the node_modules for the React project.
 
 1. In a new terminal, navigate to the frontend directory:
    ```bash
-   cd expense-tracker/frontend
+   cd app
    ```
 
 2. Install dependencies:
