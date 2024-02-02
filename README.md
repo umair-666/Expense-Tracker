@@ -26,7 +26,7 @@ Use "npm install" command to install the node_modules for the React project.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/your-username/expense-tracker.git](https://github.com/umair-666/Expense-Tracker.git
    ```
 
 2. Navigate to the backend directory:
